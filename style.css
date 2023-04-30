@@ -1,0 +1,14 @@
+h1 {
+    font-weight: bold;
+    font-family: "Gill Sans", "Gill Sans MT";
+}
+body {
+    color: purple;
+}
+h4 {
+    border: dashed;
+    border-color: blue;
+}
+h6 {
+    text-decoration: underline;
+}
